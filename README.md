@@ -1,4 +1,6 @@
 PersonalWiki
 ============
 
-My Own wiki
+My Own wiki with different firms - Confidential Information
+
+by Adriaan Botha

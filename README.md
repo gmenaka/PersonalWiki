@@ -5,6 +5,10 @@ My Own wiki with different firms - Confidential Information
 
 See <https://github.com/nhoss2/nodewiki>
 
+commands
+netstat -lnptu
+
+
 Welcome to the PersonalWiki wiki!
 
 # H1

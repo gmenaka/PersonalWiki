@@ -1,2 +1,2 @@
-SOme details - test
+Some details - test
 
